@@ -21,6 +21,9 @@ This program is written in C++ and can be compiled with any C++ compiler. To bui
 2.Navigate to the directory containing the source code.<br>
 3.Use the appropriate compiler command (e.g., g++ for GCC) to compile the program.<br>
 4.Execute the compiled binary.<br>
+## Example of Output
+![image](https://github.com/NikhilNair07/Signup-and-Login-page/assets/143101542/b2c28bb1-277b-4eab-94f3-3088e0852a7b)
+
 ## Repository Structure
 1.main.cpp: Contains the source code for the program.<br>
 2.README.md: Provides additional information and instructions for users.<br>
